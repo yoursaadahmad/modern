@@ -92,7 +92,7 @@ export const navItems = [
       des: "Explore a stunning portfolio of cutting-edge user interface designs that blend creativity with functionality",
       img: "/Modproj.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://modern-two.vercel.app/",
     },
     
   ];
